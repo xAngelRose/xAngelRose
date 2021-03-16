@@ -5,4 +5,3 @@
 - ☕ Vous pouvez me joindre directement par Discord! : AngelRose#0001
 
 - 💨 console.log("Angel Rose");
-
